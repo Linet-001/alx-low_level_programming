@@ -5,7 +5,6 @@
  */
 
 int main(void)
-iiii=======
 int main(void)
 {
 int i;
