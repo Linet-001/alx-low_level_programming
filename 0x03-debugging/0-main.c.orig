@@ -1,0 +1,20 @@
+#include "main.h"
+/**
+ *main - main
+ *Return: 0
+ */
+
+<<<<<<< HEAD
+int main(void)
+=======
+int main(void0
+>>>>>>> 6bdeb4352ea5bdcb1b458a3fe11875c169f79246
+{
+int i;
+i = 0;
+
+positive_or_negative(i);
+
+return (0);
+
+}
