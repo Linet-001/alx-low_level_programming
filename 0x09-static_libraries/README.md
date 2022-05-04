@@ -1,1 +1,1 @@
-0x09-static_libraries readme
+This project is about C - Static libraries
