@@ -1,3 +1,6 @@
+# Resources
+* <a href="https://www.google.com/webhp?q=bit+manipulation+C">Google<a/>
+* <a href="https://www.youtube.com/results?search_query=bitwise+operators+in+c">Youtube<a/>
 file 0-binary_to_uint.c is a function that converts a binary number to an unsigned int.
 
 File 1-print_binary.c is a function that prints the binary representation of a number.
