@@ -1,3 +1,9 @@
+# resources
+* <a href="https://www.tutorialspoint.com/cprogramming/c_pointer_to_pointer.htm">C - Pointer to Pointer<a/>
+* <a href="https://beginnersbook.com/2014/01/c-pointer-to-pointer/">C – Pointer to Pointer with example<a/>
+* <a href="https://www.tutorialspoint.com/cprogramming/c_multi_dimensional_arrays.htm">Multi-dimensional Arrays in C<a/>
+* <a href="https://beginnersbook.com/2014/01/2d-arrays-in-c-example/">Two dimensional (2D) arrays in C programming with example<a/>
+
 0x07-pointers Arrays Strings 0. memset Write a function that fills memory with a constant byte.
 
 Prototype: char *_memset(char *s, char b, unsigned int n);
