@@ -1,3 +1,11 @@
+# Resources
+* <a href="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/2818ba6f14f644b871dcbd746925fa15b8cd5937.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230115%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230115T093604Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9101d67d42e56cee1c59a88fd455eaf86dacbcaab8f38d7431ab802857679587">0x08. Recursion, introduction<a/>
+* <a href="https://www.youtube.com/watch?v=Mv9NEXX1VHc">What on Earth is Recursion?<a/>
+* <a href="https://www.tutorialspoint.com/cprogramming/c_recursion.htm">C - Recursion<a/>
+* <a href="https://www.youtube.com/watch?v=XGxbXMP6k8k">C Programming Tutorial 85, Recursion pt.1<a/>
+* <a href="https://www.youtube.com/watch?v=7XiIS6HobNs">C Programming Tutorial 86, Recursion pt.2<a/>
+
+
 She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget Write a function that prints a string, followed by a new line.
 Prototype: void _puts_recursion(char *s); FYI: The standard library provides a similar function: puts. Run man puts to learn more.
 
